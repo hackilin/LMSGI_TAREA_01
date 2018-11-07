@@ -11,4 +11,4 @@ _cursiva_ **negrita**
 * listas
 Enlace github **[Javier Herreras Delgado]**(https://github.com/hackilin/jherreras)
 
-![Toda una aventura]
+![Toda una aventura](https://github.com/hackilin/jherreras/blob/master/jones.jpg)
