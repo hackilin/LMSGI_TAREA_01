@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TAREA>
-    <Tema>Introducció als llenguatges de marques</Tema>
-    <Formatos>rtf,html,xml</Formatos>
-    
-</TAREA>
+<texto>
+	<mensaje>
+		Hola Mundo
+	</mensaje>
+</texto>
