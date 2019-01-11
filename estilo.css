@@ -1,0 +1,38 @@
+html,body {
+	height:100%;
+}
+
+header {
+		
+	display:block;
+	background:#7092be;
+	padding:10px 0px;
+}
+
+
+
+section {
+	width: 79%;
+	background: #ccc;
+	float: left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+}
+
+
+
+footer {
+	position: center;
+	margin-top: -50px;
+	height: 40px; 
+	padding:5px 0px;
+	clear: both;
+	background: #7092be;
+	text-align: center;
+	color: #ccc;
+}
+
+figure {
+	display: table; margin: 0 auto;
+}
